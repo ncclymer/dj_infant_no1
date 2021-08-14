@@ -21,7 +21,7 @@
 body{
 	/* display: flex; */
     background-image: url("/dj_infant_no1/images/background2.jpg");
-	background-size: cover;
+	background-size: inherit;
 }
 
 .nav {
