@@ -41,13 +41,17 @@ i {
 
 p {
     margin: auto;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     text-align: center;
     color: white;
     font-family: london;
     font-size: 15vw;
     padding: 2rem;
 
+}
+
+.follow {
+	font-size: 9vw;
 }
 
 .mixcloud {
